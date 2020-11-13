@@ -47,3 +47,13 @@ Vincent Callede
 Yvain
 David
 
+## Semaine du 09 au 15 Nov 2020
+Nous devons mettre en ligne notre repo Pong pour que tout le monde puisse y avoir accès ainsi qu'avoir un terrain dans lequel la balle bouge vers le coin en bas à droite.
+Nous devons également avoir 2 raquettes possitionnées chacune d'un côté du terrain, à l'intérieur et possèdant un mouvement vertical qui ne les sort pas du terrain.
+
+### Coordinateurs de la semaine
+Corentin HABIB, 
+Gaëtan CHATELAIN, 
+Mickaël FLAESCH-PERREAU, 
+Quentin PARIS, 
+et Loïc BARBATO.
